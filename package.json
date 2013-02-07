@@ -1,0 +1,13 @@
+{
+  "name": "ascribe",
+  "version": "0.1.0",
+  "description": "ASCII bar chart",
+  "main": "ascribe.js",
+  "files": [
+    "ascribe.js",
+    "statistics.js"
+  ],
+  "repository": "",
+  "author": "Matthew King",
+  "license": "MIT"
+}
