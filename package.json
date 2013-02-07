@@ -5,7 +5,8 @@
   "main": "ascribe.js",
   "files": [
     "ascribe.js",
-    "statistics.js"
+    "statistics.js",
+    "README.md"
   ],
   "repository": "",
   "author": "Matthew King",
